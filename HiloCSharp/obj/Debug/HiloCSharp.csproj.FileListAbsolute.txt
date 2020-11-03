@@ -1,0 +1,9 @@
+D:\Users\german.nunez@axxis-systems.com\source\repos\HiloCSharp\HiloCSharp\bin\Debug\HiloCSharp.exe.config
+D:\Users\german.nunez@axxis-systems.com\source\repos\HiloCSharp\HiloCSharp\bin\Debug\HiloCSharp.exe
+D:\Users\german.nunez@axxis-systems.com\source\repos\HiloCSharp\HiloCSharp\bin\Debug\HiloCSharp.pdb
+D:\Users\german.nunez@axxis-systems.com\source\repos\HiloCSharp\HiloCSharp\obj\Debug\HiloCSharp.csprojAssemblyReference.cache
+D:\Users\german.nunez@axxis-systems.com\source\repos\HiloCSharp\HiloCSharp\obj\Debug\HiloCSharp.Properties.Resources.resources
+D:\Users\german.nunez@axxis-systems.com\source\repos\HiloCSharp\HiloCSharp\obj\Debug\HiloCSharp.csproj.GenerateResource.cache
+D:\Users\german.nunez@axxis-systems.com\source\repos\HiloCSharp\HiloCSharp\obj\Debug\HiloCSharp.csproj.CoreCompileInputs.cache
+D:\Users\german.nunez@axxis-systems.com\source\repos\HiloCSharp\HiloCSharp\obj\Debug\HiloCSharp.exe
+D:\Users\german.nunez@axxis-systems.com\source\repos\HiloCSharp\HiloCSharp\obj\Debug\HiloCSharp.pdb
